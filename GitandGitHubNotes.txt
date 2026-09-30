@@ -1,0 +1,78 @@
+What is GitHub : - 
+
+GitHuB is a cloud platform used to store the project source code in centralized remote repository. so team member can use the same code in there local server. 
+
+GitHub cloud platform hai isko hmm kahi per install nahi krta 
+GitHub ke help se hum apni branches per security ya policies laga sakte hai --> PR (Pull Request ) --> GitHub ke help se laga sakte hu GitHub 
+GitHub kya kya kaam krta hai 
+1 : code hosting 
+2 : Pull Request 
+3 : team collaboration 
+4 : code review 
+
+ap ke company ke account create kar dia or ap git clone wala jo url hai vo de dia or ap ne clone kar lia 
+
+
+definition - : 
+
+GitHub is a cloud-based platform used to store project source code in a centralized remote repository, so that multiple team members can collaborate on the project.
+
+Aur simple:
+
+GitHub = Cloud platform + Remote repository + Team collaboration
+
+GitHub ke important kaam
+
+1. Code hosting
+Project ka source code repositories mein store karna.
+
+2. Collaboration
+Multiple developers ek project par kaam kar sakte hain.
+
+3. Pull Request
+Developer apne changes ko review ke liye submit kar sakta hai.
+
+4. Code Review
+Team members code ko review aur approve kar sakte hain.
+
+5. Branch Protection
+main jaise important branch ko direct changes se protect kar sakte hain.
+
+6. Issues
+Bug, task, feature request etc. track kar sakte hain.
+
+7. Packages/Artifacts
+Software packages aur container images ko GitHub Packages ke through manage kar sakte hain.
+
+8. Security
+Secrets, dependency/security scanning aur access controls jaise features available hain.
+
+============================================================================================================================================================
+
+what is git -- git is an version control tool / software which help in tracking , managing and maintaining changes in source code.
+
+Git ek tool hai jo aapke code mein hone wale changes ka record rakhta hai, taaki multiple versions manage kar sakein aur zarurat padne par purane version par ja sakein.
+
+Git ka main purpose kya hai?
+
+Git mainly 4 important problems solve karta hai:
+
+1. Change tracking
+
+Kaunse files mein kya change hua?
+
+2. Version management
+
+Purane versions/commits ko maintain karna.
+
+3. Collaboration
+
+Multiple developers same project par kaam kar sakte hain.
+
+4. Recovery
+
+Galat change hone par previous state par return/recover karna.
+
+ 
+
+
